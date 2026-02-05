@@ -17,7 +17,14 @@
   <p><i>Real-time aircraft operations simulation with waypoint navigation, RF signal visualization, and control tower monitoring. (Click to download full video)</i></p>
 </div>
 
-> **🎬 Demo Note**: Upload a `demo.gif` file to this repository root to display the animated demo above!
+> **🎬 Demo Note**: The models used in this project were downloaded from https://sketchfab.com/
+ and are licensed under Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA) and other applicable licenses. To respect copyright laws and the rights of the original creators, the models themselves are not included or redistributed in this repository.
+
+All credit and responsibility for the original models remain with their respective creators.
+
+Any resemblance between the aircraft depicted in this project and Air Force One is purely coincidental and intended solely for entertainment and illustrative purposes. The project does not reference or rely on any specific real-world aircraft configuration beyond what is publicly known. For the purposes of this simulation, any Boeing 747 model with a comparable antenna layout may be used.
+
+All information referenced in this project is derived from publicly available sources and public knowledge bases. No proprietary, confidential, or restricted information is included or implied.
 
 ---
 
