@@ -1,18 +1,29 @@
 # Airport USD Composer Extension - Architecture Documentation
 
-<div align="center">
-  
-![Demo Animation](demo.gif)
+[![GitHub](https://img.shields.io/badge/GitHub-Airport--Control--Tower-blue)](https://github.com/Pouria-007/nvidia-omniverse-airport-control-tower-digital-twin)
 
-*Real-time aircraft operations simulation with RF visualization and control tower monitoring*
-
-> **🎬 Demo**: Add a `demo.gif` or `demo.mp4` file to this repository to see the extension in action!
-
-</div>
+**Omniverse Kit extension for aircraft digital twin operations with real-time RF monitoring and waypoint navigation**
 
 ---
 
-> **📦 Repository Status**: This repository currently contains the **extension code only**. The complete USD scene files, 3D models, and underlying assets will be uploaded shortly. Legal references and download links for third-party models (where applicable) will be provided in the upcoming release.
+## 📸 **Live Demo**
+
+> 🎬 **Auto-playing demo** (click for full-quality video download)
+
+<div align="center">
+  <a href="https://github.com/Pouria-007/nvidia-omniverse-airport-control-tower-digital-twin/raw/main/demo.webm">
+    <img src="demo.gif" width="100%" alt="Airport Control Tower Demo">
+  </a>
+  <p><i>Real-time aircraft operations simulation with waypoint navigation, RF signal visualization, and control tower monitoring. (Click to download full video)</i></p>
+</div>
+
+> **🎬 Demo Note**: Upload a `demo.gif` file to this repository root to display the animated demo above!
+
+---
+
+## 📦 **Repository Status**
+
+> This repository currently contains the **extension code only**. The complete USD scene files, 3D models, and underlying assets will be uploaded shortly. Legal references and download links for third-party models (where applicable) will be provided in the upcoming release.
 
 ---
 ---
