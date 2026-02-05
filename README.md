@@ -1,13 +1,20 @@
 # Airport USD Composer Extension - Architecture Documentation
 
 <div align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="demo.webm" type="video/webm">
-    <img src="demo.gif" alt="Demo" />
-  </video>
-  <p><em>Real-time aircraft operations simulation with RF visualization and control tower monitoring</em></p>
+  
+![Demo Animation](demo.gif)
+
+*Real-time aircraft operations simulation with RF visualization and control tower monitoring*
+
+> **🎬 Demo**: Add a `demo.gif` or `demo.mp4` file to this repository to see the extension in action!
+
 </div>
 
+---
+
+> **📦 Repository Status**: This repository currently contains the **extension code only**. The complete USD scene files, 3D models, and underlying assets will be uploaded shortly. Legal references and download links for third-party models (where applicable) will be provided in the upcoming release.
+
+---
 ---
 
 > **📦 Repository Status**: This repository currently contains the **extension code only**. The complete USD scene files, 3D models, and assets will be uploaded shortly. Legal references and download links for third-party models will be provided in the upcoming release.
