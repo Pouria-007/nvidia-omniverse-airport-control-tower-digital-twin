@@ -10,6 +10,10 @@
 
 ---
 
+> **📦 Repository Status**: This repository currently contains the **extension code only**. The complete USD scene files, 3D models, and assets will be uploaded shortly. Legal references and download links for third-party models will be provided in the upcoming release.
+
+---
+
 ## Table of Contents
 1. [Purpose & Overview](#purpose--overview)
 2. [System Architecture](#system-architecture)
