@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Pouria-007/nvidia-omniverse-airport-control-tower-digital-twin/raw/main/demo.webm">
-    <img src="demo.gif" width="100%" alt="Airport Control Tower Demo">
+    <img src="demo.webm" width="100%" alt="Airport Control Tower Demo">
   </a>
   <p><i>Real-time aircraft operations simulation with waypoint navigation, RF signal visualization, and control tower monitoring. (Click to download full video)</i></p>
 </div>
